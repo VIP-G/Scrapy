@@ -1,0 +1,14 @@
+setup.py
+blogSpider/__init__.py
+blogSpider/items.py
+blogSpider/middlewares.py
+blogSpider/pipelines.py
+blogSpider/run.py
+blogSpider/settings.py
+blogSpider/spiders/__init__.py
+blogSpider/spiders/blog.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
